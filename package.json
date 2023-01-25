@@ -1,0 +1,22 @@
+{
+  "name": "ghost-blog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aungheinhtoo/ghost-blog.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aungheinhtoo/ghost-blog/issues"
+  },
+  "homepage": "https://github.com/aungheinhtoo/ghost-blog#readme",
+  "dependencies": {
+    "gh-pages": "^5.0.0"
+  }
+}
