@@ -1,0 +1,90 @@
+{"name":"Log","hostname":"1f36f7f38c77","pid":2267,"level":30,"version":"5.30.1","msg":"Ghost is running in development...","time":"2023-01-25T11:46:32.053Z","v":0}
+{"name":"Log","hostname":"1f36f7f38c77","pid":2267,"level":30,"version":"5.30.1","msg":"Listening on: 127.0.0.1:2368","time":"2023-01-25T11:46:32.054Z","v":0}
+{"name":"Log","hostname":"1f36f7f38c77","pid":2267,"level":30,"version":"5.30.1","msg":"Url configured as: http://localhost:2368/","time":"2023-01-25T11:46:32.054Z","v":0}
+{"name":"Log","hostname":"1f36f7f38c77","pid":2267,"level":30,"version":"5.30.1","msg":"Ctrl+C to shut down","time":"2023-01-25T11:46:32.055Z","v":0}
+{"name":"Log","hostname":"1f36f7f38c77","pid":2267,"level":30,"version":"5.30.1","msg":"Ghost server started in 0.369s","time":"2023-01-25T11:46:32.056Z","v":0}
+{"name":"Log","hostname":"1f36f7f38c77","pid":2267,"level":40,"version":"5.30.1","msg":"Database state requires initialisation.","time":"2023-01-25T11:46:32.156Z","v":0}
+{"name":"Log","hostname":"1f36f7f38c77","pid":2267,"level":30,"version":"5.30.1","msg":"Creating table: newsletters","time":"2023-01-25T11:46:32.354Z","v":0}
+{"name":"Log","hostname":"1f36f7f38c77","pid":2267,"level":30,"version":"5.30.1","msg":"Creating table: posts","time":"2023-01-25T11:46:32.374Z","v":0}
+{"name":"Log","hostname":"1f36f7f38c77","pid":2267,"level":30,"version":"5.30.1","msg":"Creating table: posts_meta","time":"2023-01-25T11:46:32.383Z","v":0}
+{"name":"Log","hostname":"1f36f7f38c77","pid":2267,"level":30,"version":"5.30.1","msg":"Creating table: users","time":"2023-01-25T11:46:32.392Z","v":0}
+{"name":"Log","hostname":"1f36f7f38c77","pid":2267,"level":30,"version":"5.30.1","msg":"Creating table: posts_authors","time":"2023-01-25T11:46:32.404Z","v":0}
+{"name":"Log","hostname":"1f36f7f38c77","pid":2267,"level":30,"version":"5.30.1","msg":"Creating table: roles","time":"2023-01-25T11:46:32.408Z","v":0}
+{"name":"Log","hostname":"1f36f7f38c77","pid":2267,"level":30,"version":"5.30.1","msg":"Creating table: roles_users","time":"2023-01-25T11:46:32.416Z","v":0}
+{"name":"Log","hostname":"1f36f7f38c77","pid":2267,"level":30,"version":"5.30.1","msg":"Creating table: permissions","time":"2023-01-25T11:46:32.420Z","v":0}
+{"name":"Log","hostname":"1f36f7f38c77","pid":2267,"level":30,"version":"5.30.1","msg":"Creating table: permissions_users","time":"2023-01-25T11:46:32.430Z","v":0}
+{"name":"Log","hostname":"1f36f7f38c77","pid":2267,"level":30,"version":"5.30.1","msg":"Creating table: permissions_roles","time":"2023-01-25T11:46:32.435Z","v":0}
+{"name":"Log","hostname":"1f36f7f38c77","pid":2267,"level":30,"version":"5.30.1","msg":"Creating table: settings","time":"2023-01-25T11:46:32.440Z","v":0}
+{"name":"Log","hostname":"1f36f7f38c77","pid":2267,"level":30,"version":"5.30.1","msg":"Creating table: tags","time":"2023-01-25T11:46:32.449Z","v":0}
+{"name":"Log","hostname":"1f36f7f38c77","pid":2267,"level":30,"version":"5.30.1","msg":"Creating table: posts_tags","time":"2023-01-25T11:46:32.457Z","v":0}
+{"name":"Log","hostname":"1f36f7f38c77","pid":2267,"level":30,"version":"5.30.1","msg":"Creating table: invites","time":"2023-01-25T11:46:32.462Z","v":0}
+{"name":"Log","hostname":"1f36f7f38c77","pid":2267,"level":30,"version":"5.30.1","msg":"Creating table: brute","time":"2023-01-25T11:46:32.474Z","v":0}
+{"name":"Log","hostname":"1f36f7f38c77","pid":2267,"level":30,"version":"5.30.1","msg":"Creating table: sessions","time":"2023-01-25T11:46:32.478Z","v":0}
+{"name":"Log","hostname":"1f36f7f38c77","pid":2267,"level":30,"version":"5.30.1","msg":"Creating table: integrations","time":"2023-01-25T11:46:32.486Z","v":0}
+{"name":"Log","hostname":"1f36f7f38c77","pid":2267,"level":30,"version":"5.30.1","msg":"Creating table: webhooks","time":"2023-01-25T11:46:32.493Z","v":0}
+{"name":"Log","hostname":"1f36f7f38c77","pid":2267,"level":30,"version":"5.30.1","msg":"Creating table: api_keys","time":"2023-01-25T11:46:32.498Z","v":0}
+{"name":"Log","hostname":"1f36f7f38c77","pid":2267,"level":30,"version":"5.30.1","msg":"Creating table: mobiledoc_revisions","time":"2023-01-25T11:46:32.507Z","v":0}
+{"name":"Log","hostname":"1f36f7f38c77","pid":2267,"level":30,"version":"5.30.1","msg":"Creating table: post_revisions","time":"2023-01-25T11:46:32.516Z","v":0}
+{"name":"Log","hostname":"1f36f7f38c77","pid":2267,"level":30,"version":"5.30.1","msg":"Creating table: members","time":"2023-01-25T11:46:32.523Z","v":0}
+{"name":"Log","hostname":"1f36f7f38c77","pid":2267,"level":30,"version":"5.30.1","msg":"Creating table: products","time":"2023-01-25T11:46:32.538Z","v":0}
+{"name":"Log","hostname":"1f36f7f38c77","pid":2267,"level":30,"version":"5.30.1","msg":"Creating table: offers","time":"2023-01-25T11:46:32.546Z","v":0}
+{"name":"Log","hostname":"1f36f7f38c77","pid":2267,"level":30,"version":"5.30.1","msg":"Creating table: benefits","time":"2023-01-25T11:46:32.562Z","v":0}
+{"name":"Log","hostname":"1f36f7f38c77","pid":2267,"level":30,"version":"5.30.1","msg":"Creating table: products_benefits","time":"2023-01-25T11:46:32.569Z","v":0}
+{"name":"Log","hostname":"1f36f7f38c77","pid":2267,"level":30,"version":"5.30.1","msg":"Creating table: members_products","time":"2023-01-25T11:46:32.573Z","v":0}
+{"name":"Log","hostname":"1f36f7f38c77","pid":2267,"level":30,"version":"5.30.1","msg":"Creating table: posts_products","time":"2023-01-25T11:46:32.577Z","v":0}
+{"name":"Log","hostname":"1f36f7f38c77","pid":2267,"level":30,"version":"5.30.1","msg":"Creating table: members_created_events","time":"2023-01-25T11:46:32.581Z","v":0}
+{"name":"Log","hostname":"1f36f7f38c77","pid":2267,"level":30,"version":"5.30.1","msg":"Creating table: members_cancel_events","time":"2023-01-25T11:46:32.586Z","v":0}
+{"name":"Log","hostname":"1f36f7f38c77","pid":2267,"level":30,"version":"5.30.1","msg":"Creating table: members_payment_events","time":"2023-01-25T11:46:32.590Z","v":0}
+{"name":"Log","hostname":"1f36f7f38c77","pid":2267,"level":30,"version":"5.30.1","msg":"Creating table: members_login_events","time":"2023-01-25T11:46:32.595Z","v":0}
+{"name":"Log","hostname":"1f36f7f38c77","pid":2267,"level":30,"version":"5.30.1","msg":"Creating table: members_email_change_events","time":"2023-01-25T11:46:32.602Z","v":0}
+{"name":"Log","hostname":"1f36f7f38c77","pid":2267,"level":30,"version":"5.30.1","msg":"Creating table: members_status_events","time":"2023-01-25T11:46:32.607Z","v":0}
+{"name":"Log","hostname":"1f36f7f38c77","pid":2267,"level":30,"version":"5.30.1","msg":"Creating table: members_product_events","time":"2023-01-25T11:46:32.611Z","v":0}
+{"name":"Log","hostname":"1f36f7f38c77","pid":2267,"level":30,"version":"5.30.1","msg":"Creating table: members_paid_subscription_events","time":"2023-01-25T11:46:32.616Z","v":0}
+{"name":"Log","hostname":"1f36f7f38c77","pid":2267,"level":30,"version":"5.30.1","msg":"Creating table: labels","time":"2023-01-25T11:46:32.620Z","v":0}
+{"name":"Log","hostname":"1f36f7f38c77","pid":2267,"level":30,"version":"5.30.1","msg":"Creating table: members_labels","time":"2023-01-25T11:46:32.632Z","v":0}
+{"name":"Log","hostname":"1f36f7f38c77","pid":2267,"level":30,"version":"5.30.1","msg":"Creating table: members_stripe_customers","time":"2023-01-25T11:46:32.636Z","v":0}
+{"name":"Log","hostname":"1f36f7f38c77","pid":2267,"level":30,"version":"5.30.1","msg":"Creating table: subscriptions","time":"2023-01-25T11:46:32.645Z","v":0}
+{"name":"Log","hostname":"1f36f7f38c77","pid":2267,"level":30,"version":"5.30.1","msg":"Creating table: members_stripe_customers_subscriptions","time":"2023-01-25T11:46:32.649Z","v":0}
+{"name":"Log","hostname":"1f36f7f38c77","pid":2267,"level":30,"version":"5.30.1","msg":"Creating table: members_subscription_created_events","time":"2023-01-25T11:46:32.661Z","v":0}
+{"name":"Log","hostname":"1f36f7f38c77","pid":2267,"level":30,"version":"5.30.1","msg":"Creating table: offer_redemptions","time":"2023-01-25T11:46:32.666Z","v":0}
+{"name":"Log","hostname":"1f36f7f38c77","pid":2267,"level":30,"version":"5.30.1","msg":"Creating table: members_subscribe_events","time":"2023-01-25T11:46:32.671Z","v":0}
+{"name":"Log","hostname":"1f36f7f38c77","pid":2267,"level":30,"version":"5.30.1","msg":"Creating table: stripe_products","time":"2023-01-25T11:46:32.675Z","v":0}
+{"name":"Log","hostname":"1f36f7f38c77","pid":2267,"level":30,"version":"5.30.1","msg":"Creating table: stripe_prices","time":"2023-01-25T11:46:32.683Z","v":0}
+{"name":"Log","hostname":"1f36f7f38c77","pid":2267,"level":30,"version":"5.30.1","msg":"Creating table: actions","time":"2023-01-25T11:46:32.690Z","v":0}
+{"name":"Log","hostname":"1f36f7f38c77","pid":2267,"level":30,"version":"5.30.1","msg":"Creating table: emails","time":"2023-01-25T11:46:32.695Z","v":0}
+{"name":"Log","hostname":"1f36f7f38c77","pid":2267,"level":30,"version":"5.30.1","msg":"Creating table: email_batches","time":"2023-01-25T11:46:32.708Z","v":0}
+{"name":"Log","hostname":"1f36f7f38c77","pid":2267,"level":30,"version":"5.30.1","msg":"Creating table: email_recipients","time":"2023-01-25T11:46:32.713Z","v":0}
+{"name":"Log","hostname":"1f36f7f38c77","pid":2267,"level":30,"version":"5.30.1","msg":"Creating table: email_recipient_failures","time":"2023-01-25T11:46:32.733Z","v":0}
+{"name":"Log","hostname":"1f36f7f38c77","pid":2267,"level":30,"version":"5.30.1","msg":"Creating table: tokens","time":"2023-01-25T11:46:32.739Z","v":0}
+{"name":"Log","hostname":"1f36f7f38c77","pid":2267,"level":30,"version":"5.30.1","msg":"Creating table: snippets","time":"2023-01-25T11:46:32.746Z","v":0}
+{"name":"Log","hostname":"1f36f7f38c77","pid":2267,"level":30,"version":"5.30.1","msg":"Creating table: custom_theme_settings","time":"2023-01-25T11:46:32.755Z","v":0}
+{"name":"Log","hostname":"1f36f7f38c77","pid":2267,"level":30,"version":"5.30.1","msg":"Creating table: members_newsletters","time":"2023-01-25T11:46:32.760Z","v":0}
+{"name":"Log","hostname":"1f36f7f38c77","pid":2267,"level":30,"version":"5.30.1","msg":"Creating table: comments","time":"2023-01-25T11:46:32.764Z","v":0}
+{"name":"Log","hostname":"1f36f7f38c77","pid":2267,"level":30,"version":"5.30.1","msg":"Creating table: comment_likes","time":"2023-01-25T11:46:32.768Z","v":0}
+{"name":"Log","hostname":"1f36f7f38c77","pid":2267,"level":30,"version":"5.30.1","msg":"Creating table: comment_reports","time":"2023-01-25T11:46:32.772Z","v":0}
+{"name":"Log","hostname":"1f36f7f38c77","pid":2267,"level":30,"version":"5.30.1","msg":"Creating table: jobs","time":"2023-01-25T11:46:32.776Z","v":0}
+{"name":"Log","hostname":"1f36f7f38c77","pid":2267,"level":30,"version":"5.30.1","msg":"Creating table: redirects","time":"2023-01-25T11:46:32.785Z","v":0}
+{"name":"Log","hostname":"1f36f7f38c77","pid":2267,"level":30,"version":"5.30.1","msg":"Creating table: members_click_events","time":"2023-01-25T11:46:32.789Z","v":0}
+{"name":"Log","hostname":"1f36f7f38c77","pid":2267,"level":30,"version":"5.30.1","msg":"Creating table: members_feedback","time":"2023-01-25T11:46:32.793Z","v":0}
+{"name":"Log","hostname":"1f36f7f38c77","pid":2267,"level":30,"version":"5.30.1","msg":"Creating table: suppressions","time":"2023-01-25T11:46:32.797Z","v":0}
+{"name":"Log","hostname":"1f36f7f38c77","pid":2267,"level":30,"version":"5.30.1","msg":"Creating table: email_spam_complaint_events","time":"2023-01-25T11:46:32.806Z","v":0}
+{"name":"Log","hostname":"1f36f7f38c77","pid":2267,"level":30,"version":"5.30.1","msg":"Model: Product","time":"2023-01-25T11:46:33.174Z","v":0}
+{"name":"Log","hostname":"1f36f7f38c77","pid":2267,"level":30,"version":"5.30.1","msg":"Model: Newsletter","time":"2023-01-25T11:46:33.183Z","v":0}
+{"name":"Log","hostname":"1f36f7f38c77","pid":2267,"level":30,"version":"5.30.1","msg":"Model: Tag","time":"2023-01-25T11:46:33.189Z","v":0}
+{"name":"Log","hostname":"1f36f7f38c77","pid":2267,"level":30,"version":"5.30.1","msg":"Model: Permission","time":"2023-01-25T11:46:33.195Z","v":0}
+{"name":"Log","hostname":"1f36f7f38c77","pid":2267,"level":30,"version":"5.30.1","msg":"Model: Post","time":"2023-01-25T11:46:33.444Z","v":0}
+{"name":"Log","hostname":"1f36f7f38c77","pid":2267,"level":30,"version":"5.30.1","msg":"Model: Integration","time":"2023-01-25T11:46:33.665Z","v":0}
+{"name":"Log","hostname":"1f36f7f38c77","pid":2267,"level":30,"version":"5.30.1","msg":"Relation: Role to Permission","time":"2023-01-25T11:46:33.704Z","v":0}
+{"name":"Log","hostname":"1f36f7f38c77","pid":2267,"level":30,"version":"5.30.1","msg":"Relation: Post to Tag","time":"2023-01-25T11:46:33.864Z","v":0}
+{"name":"Log","hostname":"1f36f7f38c77","pid":2267,"level":30,"version":"5.30.1","msg":"Database is in a ready state.","time":"2023-01-25T11:46:33.927Z","v":0}
+{"name":"Log","hostname":"1f36f7f38c77","pid":2267,"level":30,"version":"5.30.1","msg":"Ghost database ready in 2.241s","time":"2023-01-25T11:46:33.927Z","v":0}
+{"name":"Log","hostname":"1f36f7f38c77","pid":2267,"level":30,"version":"5.30.1","msg":"Adding one off inline job to the queue","time":"2023-01-25T11:46:35.342Z","v":0}
+{"name":"Log","hostname":"1f36f7f38c77","pid":2267,"level":30,"version":"5.30.1","msg":"Stripe not configured - skipping migrations","time":"2023-01-25T11:46:35.350Z","v":0}
+{"name":"Log","hostname":"1f36f7f38c77","pid":2267,"level":30,"version":"5.30.1","msg":"Ghost URL Service Ready in 3.828s","time":"2023-01-25T11:46:35.514Z","v":0}
+{"name":"Log","hostname":"1f36f7f38c77","pid":2267,"level":30,"version":"5.30.1","msg":"Adding offloaded job to the queue","time":"2023-01-25T11:46:35.830Z","v":0}
+{"name":"Log","hostname":"1f36f7f38c77","pid":2267,"level":30,"version":"5.30.1","msg":"Scheduling job clean-expired-comped at 48 5 0 * * *. Next run on: Thu Jan 26 2023 00:05:48 GMT+0000 (Coordinated Universal Time)","time":"2023-01-25T11:46:35.841Z","v":0}
+{"name":"Log","hostname":"1f36f7f38c77","pid":2267,"level":30,"version":"5.30.1","msg":"Adding offloaded job to the queue","time":"2023-01-25T11:46:35.856Z","v":0}
+{"name":"Log","hostname":"1f36f7f38c77","pid":2267,"level":30,"version":"5.30.1","msg":"Scheduling job clean-tokens at 29 8 5 * * *. Next run on: Thu Jan 26 2023 05:08:29 GMT+0000 (Coordinated Universal Time)","time":"2023-01-25T11:46:35.863Z","v":0}
+{"name":"Log","hostname":"1f36f7f38c77","pid":2267,"level":30,"version":"5.30.1","msg":"Ghost booted in 4.192s","time":"2023-01-25T11:46:35.878Z","v":0}
+{"name":"Log","hostname":"1f36f7f38c77","pid":2267,"level":30,"version":"5.30.1","msg":"Adding offloaded job to the queue","time":"2023-01-25T11:46:35.881Z","v":0}
+{"name":"Log","hostname":"1f36f7f38c77","pid":2267,"level":30,"version":"5.30.1","msg":"Scheduling job update-check at 31 20 9 * * *. Next run on: Thu Jan 26 2023 09:20:31 GMT+0000 (Coordinated Universal Time)","time":"2023-01-25T11:46:35.893Z","v":0}
