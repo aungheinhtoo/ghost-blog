@@ -4,6 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "start": "ghost start",
+    "stop": "ghost stop",
+    "build": "rm -r static && wget -r -nH -P static -E -T 2 -np -k http://localhost:2368/",
     "deploy": "gh-pages -d static"
   },
   "repository": {
